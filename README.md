@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Swaroopm16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 
 </div>
 
@@ -248,7 +248,7 @@ End-to-end ML pipeline including data ingestion, preprocessing, feature engineer
 **Focus:**
 `MLOps` `Pipeline Automation` `Experiment Tracking` `CI`
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/mlops-pipeline">
+<a href="https://github.com/Swaroopm16/mlops-pipeline">
 <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github"/>
 </a>
 
@@ -270,38 +270,6 @@ Computer vision project exploring virtual clothing try-on using modern vision mo
 
 ---
 
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swaroopm16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaroopm16&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Swaroopm16&theme=tokyonight&hide_border=false" />
-
-</div>
-
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swaroopm16&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-
----
 
 # 📚 Currently Learning
 
