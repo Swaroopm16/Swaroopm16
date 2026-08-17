@@ -1,6 +1,3 @@
-Absolutely. Below is a **complete, paste-ready GitHub Profile `README.md`** designed specifically around a **Machine Learning / Data Science / ML Engineering** profile.
-
-I’ve kept the animations professional rather than filling the page with flashy GIFs. The README uses external GitHub services for typing animation, stats, streaks, skill icons, contribution graph, and project cards.
 
 # 👋 Hi, I'm Swaroop
 
