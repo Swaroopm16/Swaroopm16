@@ -264,7 +264,7 @@ Computer vision project exploring virtual clothing try-on using modern vision mo
 **Concepts:**
 `Computer Vision` `Segmentation` `Pose Estimation` `Transfer Learning`
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ai-virtual-tryon">
+<a href="https://github.com/Swaroopm16/ai-virtual-tryon">
 <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github"/>
 </a>
 
@@ -290,15 +290,6 @@ Computer vision project exploring virtual clothing try-on using modern vision mo
 
 </div>
 
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Swaroopm16/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
 
 ---
 
